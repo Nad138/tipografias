@@ -15,6 +15,7 @@
 h2{
   font-family: "Playfair Display", serif;
   color: #777777;
+  src: url(https://fonts.google.com/specimen/Indie+Flower);
 }
 
 .box:hover{
@@ -22,7 +23,7 @@ h2{
   color: white;
   background-color: #fff;
   -webkit-transform: scale(1.1);
-  color: #8C8F98;
+  color: #7aa2f4;
   -webkit-transition: all .0.5s ease-in-out;
 }
 
@@ -31,5 +32,5 @@ h2{
 .icon-heart,
 .icon-cup,
 .icon-food{
-    font-size: 75px;
+    font-size: 80px;
 }
