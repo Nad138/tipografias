@@ -13,9 +13,9 @@
   transition: all 1s ease;
 }
 h2{
-  font-family: "Playfair Display", serif;
+  font-family: 'Ranga', cursive;
   color: #777777;
-  src: url(https://fonts.google.com/specimen/Indie+Flower);
+  font-size: 30px;
 }
 
 .box:hover{
@@ -23,7 +23,7 @@ h2{
   color: white;
   background-color: #fff;
   -webkit-transform: scale(1.1);
-  color: #7aa2f4;
+  color: #8C8F98;
   -webkit-transition: all .0.5s ease-in-out;
 }
 
